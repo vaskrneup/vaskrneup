@@ -11,5 +11,3 @@ Hi! I am a self-taught Full-Stack Developer based in Kathmandu, Nepal. Currently
 
 check my [website](https://vaskrneup.com) for more details.
 ---
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=vaskrneup.vaskrneup&title=Profile%20views)
